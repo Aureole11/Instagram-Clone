@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "576221168223",
+    "firebase_url": "https://androidproject-2024-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "androidproject-2024",
+    "storage_bucket": "androidproject-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576221168223:android:e94bd7e3b705f6c27151ea",
+        "android_client_info": {
+          "package_name": "com.example.aprilandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbOJxghZ5HR6CtOdJ34vCbPrwC_uYGkyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
